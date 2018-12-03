@@ -2,17 +2,17 @@
 
 -------
 
-a.用--version标志运行Python命令，了解所使用的具体Python版本
-=
-
-    $python --version
-
-    $python3 --version  
+- 用--version标志运行Python命令，了解所使用的具体Python版本
 
 
+      $python --version
 
-b.使用内置的sys模块，来确定当时使用的Python版本
-=
+      $python3 --version  
+
+
+
+- 使用内置的sys模块，来确定当时使用的Python版本
+
 ![](https://i.imgur.com/Mxz1nOe.png)
 
 
