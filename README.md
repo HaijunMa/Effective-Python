@@ -7,4 +7,4 @@
   
 
 - [Methon One --- 确认自己所用的Python版本](https://github.com/HaijunMa/Effective-Python/blob/master/method_one.md)
-- [Methon Two --- 遵循PEP风格指南](https://github.com/HaijunMa/Effective-Python/blob/master/method_two.md)
+- [Methon Two --- 遵循PEP8风格指南](https://github.com/HaijunMa/Effective-Python/blob/master/method_two.md)
