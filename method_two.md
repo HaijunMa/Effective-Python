@@ -1,5 +1,5 @@
-#&emsp;&emsp;&emsp;&emsp;&emsp;遵循PEP8风格指南
-_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;《Python Enhancement proposal #8》_   （8号Python增强提案）
+# &emsp;&emsp;&emsp;&emsp;&emsp;遵循PEP8风格指南
+_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;《Python Enhancement proposal #8》   （8号Python增强提案）_
 
 ----
 
@@ -16,7 +16,7 @@ _&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;《Python Enhancement proposal #8》_
 ---
 
 
- &emsp;&emsp;&emsp;  **指南链接<https://www.python.org/dev/peps/pep-0008>**
+  **指南链接<https://www.python.org/dev/peps/pep-0008>**
 
 **几条绝对应该遵守的规则：**
 -
@@ -36,7 +36,7 @@ _&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;《Python Enhancement proposal #8》_
      在使用下标来获取列表元素、调用函数或是给关键字参数赋值的时候，不要在两旁添加空格
 
      为变量赋值的时候，赋值符号的左侧和右侧应该各写上一个空格，而且只写一个就好
-
+--------------------
 - **命名**
 
      函数、变量及属性应该用小写字母来拼写，各单词之间下划线相连
@@ -53,9 +53,11 @@ _&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;《Python Enhancement proposal #8》_
 
      类方法的首个参数，应该命名为cls,以表示该类自身
   
+-------------
 
-      >>> _**“每件事都应该有直白的做法，而且最好只有一种”   ----《The Zen of Python》**_
-
+   _**“每件事都应该有直白的做法，而且最好只有一种”   ----《The Zen of Python》**_
+     
+--------
 - **表达式和语句**
     
      采用内联形式的否定词，而不要把否定词放在整个表达式的前面，eg : 应该采用 if a is not b  
