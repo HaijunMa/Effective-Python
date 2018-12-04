@@ -15,7 +15,7 @@
 
 - **在Python3中**
 
-  a.编写接受str或bytes，并总是返回str的方法：
+a.编写接受str或bytes，并总是返回str的方法：
 
       def to_str(bytes_or_str):
           if isinstance(bytes_or_str,bytes):
