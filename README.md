@@ -8,5 +8,5 @@
 
 - [Methon One   --- 确认自己所用的Python版本](https://github.com/HaijunMa/Effective-Python/blob/master/method_one.md)
 - [Methon Two   --- 遵循PEP8风格指南](https://github.com/HaijunMa/Effective-Python/blob/master/method_two.md)
-- [Methon Three --- 了解bytes、str及unicode的区别](https://github.com/HaijunMa/Effective-Python/blob/master/method_t.md)
+- [Methon Three --- 了解bytes、str及unicode的区别](https://github.com/HaijunMa/Effective-Python/blob/master/method_three.md)
 
