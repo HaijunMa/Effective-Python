@@ -1,5 +1,17 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;遵循PEP8风格指南
+# 遵循PEP8风格指南
 _&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;《Python Enhancement proposal #8》   （8号Python增强提案）_
+
+|             TYPES               |                           VALUE                          |
+|:-------------------------------:|:--------------------------------------------------------:|
+|             PEP:                |                            8                             |
+|             Title:              |                Style Guide for Python Code               |
+|             Author:             |           Guido van Rossum (guido at python.org)         | 
+|             Author:             |           Barry Warsaw (barry at python.org）            |
+|             Author:             |           Nick Coghlan (ncoghlan at gmail.com)           |
+|             Stats:              |                         Active                           |
+|             Type:               |                         Process                          |
+|             Greated:            |                       05-Jul-2001                        |
+|           Post-History:         |                 05-Jul-2001, 01-Aug-2013                 |
 
 ----
 
