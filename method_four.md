@@ -76,7 +76,7 @@ if/else条件表达式（三元操作符），可以把上述逻辑写的更清�
 
 ---
 
-# **Note:**
+# :clipboard: **Note:**
 ### _表达式如果变的比较复杂，那就应该考虑将其拆解成小块，并把这些逻辑移入辅助函数中。_  
 ### _这会让代码更加易读、整洁 。编写Python程序时，不要一味追求过于紧凑的写法，那样会_
 ### _写出非常辅助的表达式。_
@@ -84,6 +84,6 @@ if/else条件表达式（三元操作符），可以把上述逻辑写的更清�
 
 ---
 
-# Blessing:
-
-### _I believe that you will stick to it. Come on!_ 
+# :star:Blessing:
+:thumbsup:
+ ### _I believe that you will stick to it. Come on!_ 
