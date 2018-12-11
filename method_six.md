@@ -1,7 +1,7 @@
 # 在单次切片操作内，不要同时指定start、end和stride
 ---
 
-- 除了基本的切片操作，Python还提供了somelist[start:end:stride]形式的写法，以实现步进式切割，也就是从每n个元素里取出一个。
+- 除了基本的切片操作，Python还提供了somelist[start\:end\:stride]形式的写法，以实现步进式切割，也就是从每n个元素里取出一个。
 >
 
     #指定步进值(stride),把列表的奇偶数分开
